@@ -1,0 +1,210 @@
+{
+  "app": {
+    "name": "Koora Plus",
+    "nameFull": "Koora Plus",
+    "tagline": "Play. Guess. Win.",
+    "description": "The ultimate free-to-play football trivia game with online multiplayer and 13 authentic game modes.",
+    "shareText": "I scored {{score}} points on Koora Plus! Can you beat me? {{link}}"
+  },
+  "nav": {
+    "home": "Home",
+    "solo": "Solo Mode",
+    "passAndPlay": "Pass & Play",
+    "multiplayer": "Multiplayer",
+    "leaderboard": "Leaderboard",
+    "settings": "Settings",
+    "about": "About",
+    "rules": "Modes & Rules"
+  },
+  "home": {
+    "heroTitle": "The Premier Football Quiz",
+    "heroSubtitle": "Challenge your football intellect across 13 unique game modes. Play solo, pass-and-play with friends, or battle in real-time online multiplayer rooms!",
+    "playSolo": "Play Solo",
+    "passAndPlay": "Local Pass & Play",
+    "joinRoom": "Join with Code",
+    "createRoom": "Create Online Room",
+    "roomCodePlaceholder": "Enter 6-letter room code (e.g. KPLUS7)",
+    "join": "Join",
+    "selectModes": "Selected Game Modes",
+    "allModes": "All 13 Modes Active",
+    "customizeModes": "Customize Modes",
+    "highScore": "High Score",
+    "freeToPlay": "100% Free • No Login Required"
+  },
+  "modes": {
+    "career_path": {
+      "title": "Career Path Challenge",
+      "shortTitle": "Who Am I?",
+      "desc": "Guess the superstar from their chronological club transfers. Hints cost points!"
+    },
+    "football_auction": {
+      "title": "Football Auction",
+      "shortTitle": "Auction",
+      "desc": "Name as many valid answers as you can before the countdown runs out."
+    },
+    "historic_lineup": {
+      "title": "Historic Match Lineup",
+      "shortTitle": "Historic Lineup",
+      "desc": "Identify the hidden starters on the interactive pitch of legendary finals."
+    },
+    "password_link": {
+      "title": "Password / Common Link",
+      "shortTitle": "Common Link",
+      "desc": "Uncover the secret link connecting three famous footballers or managers."
+    },
+    "lightning_round": {
+      "title": "Lightning Round (30s)",
+      "shortTitle": "Lightning Round",
+      "desc": "Fire through rapid questions in 30 seconds with streak multipliers!"
+    },
+    "guess_match": {
+      "title": "Guess the Match",
+      "shortTitle": "Score & Scorers",
+      "desc": "Deduce the iconic match from the final score, scorers, and goal minutes."
+    },
+    "numbers_stats": {
+      "title": "Numbers & Stats",
+      "shortTitle": "Stats Challenge",
+      "desc": "Records, appearances, fastest goals, and Higher/Lower showdowns."
+    },
+    "nicknames_terms": {
+      "title": "Nicknames & Terms",
+      "shortTitle": "Terms & Slang",
+      "desc": "Famous club nicknames, tactical jargon, trophies, and football folklore."
+    },
+    "referee_laws": {
+      "title": "Referee Laws & Scenarios",
+      "shortTitle": "Referee Laws",
+      "desc": "IFAB rules, tricky offsides, penalties, and referee masterclasses."
+    },
+    "continental_tournaments": {
+      "title": "World Cup & Continental",
+      "shortTitle": "Tournaments",
+      "desc": "World Cup, UCL, AFCON, AFC Asian Cup, and Arab Cup glory."
+    },
+    "joker_double": {
+      "title": "Joker Double Points",
+      "shortTitle": "Joker 2X",
+      "desc": "Activate your ONE joker card before the question to double your points!"
+    },
+    "tiered_risk": {
+      "title": "Tiered Risk System",
+      "shortTitle": "Tiered Risk",
+      "desc": "Pick Easy (+100), Medium (+200, -50), or Hard (+350, -150 penalty)!"
+    },
+    "steal_round": {
+      "title": "Steal Round",
+      "shortTitle": "Steal Round",
+      "desc": "Wrong answer gives rivals a dramatic 5-second window to steal points!"
+    }
+  },
+  "game": {
+    "question": "Question",
+    "of": "of",
+    "score": "Score",
+    "streak": "Streak",
+    "timer": "Time Left",
+    "tier": "Tier",
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard",
+    "selectTier": "Select Question Tier:",
+    "points": "pts",
+    "penalty": "penalty",
+    "submit": "Submit Answer",
+    "typeAnswer": "Type your answer...",
+    "showHint": "Unlock Hint",
+    "hintPenalty": "(-25% points)",
+    "nationality": "Nationality",
+    "position": "Position",
+    "shirtNumber": "Shirt Number",
+    "correct": "Superb! Correct Answer!",
+    "wrong": "Incorrect!",
+    "nextQuestion": "Next Question",
+    "finishGame": "Finish Match",
+    "jokerActive": "JOKER ACTIVATED! (2X Points)",
+    "useJoker": "Activate Joker Card (2X)",
+    "jokerUsed": "Joker Card Used",
+    "stealWindow": "STEAL WINDOW OPEN!",
+    "stealCountdown": "Rival Steal Countdown:",
+    "stealQuestion": "STEAL THIS QUESTION!",
+    "stolenBy": "{{name}} just stole the points!",
+    "lastScorer": "{{name}} scored +{{points}} pts!",
+    "auctionRemaining": "Items Found: {{count}}",
+    "auctionPlaceholder": "Type valid player or club...",
+    "alreadyEntered": "Already found!",
+    "invalidAnswer": "Not on the list, keep trying!",
+    "timeUp": "Time is up!",
+    "reportQuestion": "Report Question",
+    "reportedThanks": "Thank you! Question reported for review.",
+    "passPhoneTo": "Pass device to:",
+    "readyToPlay": "I am ready!"
+  },
+  "room": {
+    "lobbyTitle": "Multiplayer Locker Room",
+    "roomCode": "Room Code",
+    "copyCode": "Copy Code",
+    "copyLink": "Copy Invite Link",
+    "codeCopied": "Code copied to clipboard!",
+    "linkCopied": "Invite link copied!",
+    "shareRoom": "Invite Friends",
+    "players": "Players in Room",
+    "format": "Game Format",
+    "ffa": "Free-for-All",
+    "teams": "Team Battle (A vs B)",
+    "switchTeam": "Switch Team",
+    "teamA": "Team Green",
+    "teamB": "Team Gold",
+    "waitingForHost": "Waiting for host to kick off...",
+    "startGame": "Kick Off Match",
+    "leaveRoom": "Leave Room",
+    "enterNickname": "Enter your nickname",
+    "nickname": "Nickname",
+    "hostBadge": "Host",
+    "youBadge": "You",
+    "reactions": "Send Reaction",
+    "connected": "Connected",
+    "disconnected": "Disconnected (Reconnecting...)"
+  },
+  "results": {
+    "title": "Full-Time Whistle!",
+    "victoryTitle": "Match Champions!",
+    "soloTitle": "Solo Challenge Complete",
+    "finalScore": "Final Score",
+    "accuracy": "Accuracy",
+    "bestStreak": "Highest Streak",
+    "speed": "Fastest Answer",
+    "playAgain": "Rematch / Play Again",
+    "shareResult": "Share Result",
+    "copied": "Score copied to clipboard!",
+    "home": "Back to Home",
+    "standings": "Match Standings"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "sound": "Sound Effects",
+    "soundDesc": "Audio whistle, chimes, and stadium tension",
+    "vibration": "Haptic Feedback",
+    "vibrationDesc": "Tactile vibrations on mobile devices",
+    "theme": "Theme",
+    "nightMode": "Night Mode (Stadium Lights)",
+    "lightMode": "Light Mode (Daylight Pitch)",
+    "timerDuration": "Default Question Timer",
+    "seconds": "seconds",
+    "resetDefaults": "Reset to Defaults"
+  },
+  "about": {
+    "title": "About Koora Plus",
+    "intro": "Koora Plus is a modern, 100% free-to-play football quiz web app engineered for true football enthusiasts across the Arab world and globally.",
+    "featuresTitle": "Key Features",
+    "f1": "13 authentic game modes including Career Path, Football Auction, Historic Lineups, and IFAB Referee Laws.",
+    "f2": "Real-time online multiplayer over the internet with room codes and live scoreboard sync.",
+    "f3": "Full bilingual support in Arabic (RTL) and English (LTR).",
+    "f4": "Zero paywalls, zero account logins, 100% free-tier architecture.",
+    "f5": "Offline solo play via Progressive Web App (PWA) installation.",
+    "version": "Version",
+    "copyright": "Made with passion for football fans."
+  }
+}
+
